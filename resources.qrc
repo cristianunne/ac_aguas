@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ac_aguas" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
