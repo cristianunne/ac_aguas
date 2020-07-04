@@ -1,5 +1,29 @@
 <RCC>
     <qresource prefix="/plugins/ac_aguas" >
         <file>icon.png</file>
+        <file>icons/editar_attr.png</file>
+        <file>icons/conexion.png</file>
+        <file>icons/polilinea.png</file>
+        <file>icons/polilinea_delete.svg</file>
+        <file>icons/direction.png</file>
+        <file>icons/dir_delete.png</file>
+        <file>icons/dir_change.png</file>
+        <file>icons/hidrantes.svg</file>
+        <file>icons/VE_add.svg</file>
+        <file>icons/rotar.svg</file>
+
+        <file>icons/hidrantes.svg</file>
+        <file>icons/hidrante_vista.svg</file>
+        <file>icons/camara_limpieza.svg</file>
+        <file>icons/grifo_publico.svg</file>
+        <file>icons/valvula_aire.svg</file>
+        <file>icons/valvula_seg.svg</file>
+        <file>icons/boca_riego.svg</file>
+        <file>icons/val_con_golpe.svg</file>
+        <file>icons/tanque_hidron.svg</file>
+        <file>icons/camara_rompec.svg</file>
+        <file>icons/valv_reg_presion.svg</file>
+        <file>icons/valv_reg_caudal.svg</file>
+        <file>icons/medidor_caudal.svg</file>
     </qresource>
 </RCC>
